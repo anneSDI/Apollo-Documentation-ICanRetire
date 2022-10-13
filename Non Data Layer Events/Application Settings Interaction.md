@@ -1,4 +1,4 @@
-# Video Milestone Reached
+# Application Settings Interaction
 
 ### 
 
@@ -6,7 +6,7 @@
 
 | Attribute Name|Data Source Type|Data Source|Description|
 | --- | --- | --- | --- |
-|Video Milestones|Static|1|Description not provided|
+|Count of Application Settings Interactions|Static|1|Description not provided|
 
 
 

@@ -7,34 +7,35 @@
 | Attribute Name|Data Source Type|Data Source|Description|
 | --- | --- | --- | --- |
 |% of Page Viewed|Data Enrichment|Tag Manager Custom Code|Data for this attribute requires custom code in the tag manager. Read more about how to implement custom code in the tag manager here: https:\/\/docs.apolloplatform.com\/en\/articles\/5481690-data-sources.|
-|10s Facebook Video Views|Static|Integration Data|Placeholder for data imported from an external source.|
-|Clicks to Native Article|Static|Integration Data|Placeholder for data imported from an external source.|
-|Facebook Est. Ad Recall Lift|Static|Integration Data|Placeholder for data imported from an external source.|
-|InPowered Engagements|Static|Integration Data|Placeholder for data imported from an external source.|
-|InPowered Page Views|Static|Integration Data|Placeholder for data imported from an external source.|
-|Leads Generated|Static|Integration Data|Placeholder for data imported from an external source.|
-|LinkedIn Elevate Reach|Static|Integration Data|Placeholder for data imported from an external source.|
-|LinkedIn Elevate Shares|Static|Integration Data|Placeholder for data imported from an external source.|
+|10s Facebook Video Views|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Bot Identifier|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Clicks to Native Article|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Facebook Est. Ad Recall Lift|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|InPowered Engagements|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|InPowered Page Views|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Leads Generated|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|LinkedIn Elevate Reach|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|LinkedIn Elevate Shares|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Previous Page Name|Data Enrichment|Tag Manager Custom Code|Data for this attribute requires custom code in the tag manager. Read more about how to implement custom code in the tag manager here: https:\/\/docs.apolloplatform.com\/en\/articles\/5481690-data-sources.|
 |Previous Page Name|Data Enrichment|Tag Manager Custom Code|Data for this attribute requires custom code in the tag manager. Read more about how to implement custom code in the tag manager here: https:\/\/docs.apolloplatform.com\/en\/articles\/5481690-data-sources.|
-|Print Distribution|Static|Integration Data|Placeholder for data imported from an external source.|
-|SEM Average Position|Static|Integration Data|Placeholder for data imported from an external source.|
-|SEM Quality Score|Static|Integration Data|Placeholder for data imported from an external source.|
-|Social Engagements|Static|Integration Data|Placeholder for data imported from an external source.|
-|Social Followers Gained|Static|Integration Data|Placeholder for data imported from an external source.|
-|Social Media Views|Static|Integration Data|Placeholder for data imported from an external source.|
-|Social Reach|Static|Integration Data|Placeholder for data imported from an external source.|
-|Third-Party Emails Opened|Static|Integration Data|Placeholder for data imported from an external source.|
-|Third-Party Emails Received|Static|Integration Data|Placeholder for data imported from an external source.|
-|Third-Party Emails Sent|Static|Integration Data|Placeholder for data imported from an external source.|
-|Third-Party Video Starts|Static|Integration Data|Placeholder for data imported from an external source.|
-|Third-Party Video Views to 100%|Static|Integration Data|Placeholder for data imported from an external source.|
-|Third-Party Video Views to 25%|Static|Integration Data|Placeholder for data imported from an external source.|
-|Third-Party Video Views to 50%|Static|Integration Data|Placeholder for data imported from an external source.|
-|Third-Party Video Views to 75%|Static|Integration Data|Placeholder for data imported from an external source.|
-|Time Spent on Native Article|Static|Integration Data|Placeholder for data imported from an external source.|
-|Youtube Video Views|Static|Integration Data|Placeholder for data imported from an external source.|
-|Youtube Video Watch Time|Static|Integration Data|Placeholder for data imported from an external source.|
+|Print Distribution|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|SEM Average Position|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|SEM Quality Score|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Social Engagements|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Social Followers Gained|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Social Media Views|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Social Reach|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Third-Party Emails Opened|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Third-Party Emails Received|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Third-Party Emails Sent|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Third-Party Video Starts|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Third-Party Video Views to 100%|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Third-Party Video Views to 25%|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Third-Party Video Views to 50%|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Third-Party Video Views to 75%|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Time Spent on Native Article|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Youtube Video Views|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Youtube Video Watch Time|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 
 
 

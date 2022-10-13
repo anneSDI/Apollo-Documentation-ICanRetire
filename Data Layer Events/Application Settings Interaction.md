@@ -1,4 +1,4 @@
-# Login Lockout
+# Application Settings Interaction
 
 ### 
 
@@ -6,9 +6,9 @@
 ```js
 window.appEventData = window.appEventData || [];
 appEventData.push({
-  "event": "Login Lockout",
-    "user": {
-        "loginMethod": "<loginMethod>"
+  "event": "Application Settings Interaction",
+    "tool": {
+        "applicationFilters": "<applicationFilters>"
     }
 });
 ```
@@ -17,7 +17,7 @@ appEventData.push({
 
 |Path|Type|Description|Example|Pattern|Min Length|Max Length|Minimum|Maximum|Multiple Of|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|user.loginMethod|string|Captures if there was a user login to the website via a customized user name, account, or ID||||||||
+|tool.applicationFilters|string|Captures the filters applied to a given application||||||||
 
 
 
