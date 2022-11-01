@@ -11,6 +11,7 @@
 |Bot Identifier|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Clicks to Native Article|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Facebook Est. Ad Recall Lift|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Facebook Reactions|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |InPowered Engagements|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |InPowered Page Views|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Leads Generated|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
@@ -21,9 +22,12 @@
 |Print Distribution|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |SEM Average Position|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |SEM Quality Score|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Social Comments|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Social Engagements|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Social Followers Gained|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Social Media Views|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Social Post Likes|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Social Post Shares|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Social Reach|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Third-Party Emails Opened|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Third-Party Emails Received|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
