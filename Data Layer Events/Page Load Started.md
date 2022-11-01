@@ -26,7 +26,6 @@ appEventData.push({
         "visitorID": "<visitorID>"
     },
     "user": {
-        "adivsorAssistantInd": "<adivsorAssistantInd>",
         "investorID": "<investorID>",
         "planParticipantID": "<planParticipantID>",
         "salesforceID": "<salesforceID>",
@@ -54,7 +53,6 @@ appEventData.push({
 |page.subSubSection|string|Sub-subsection level for the given page||||||||
 |page.visitStart|boolean|Inidicates the page view is the first of the visit||||||||
 |page.visitorID|string|Captures the Adobe Experience Cloud ID associated with user activity||||||||
-|user.adivsorAssistantInd|string|Is the user logged in under an affiliate Vision ID?||||||||
 |user.investorID|string|Captures the unique ID that the investor used to access the site||||||||
 |user.planParticipantID|string|The plan participant ID of the user accessing the site||||||||
 |user.salesforceID|string|Recipient ID used to identify a user via email||||||||
