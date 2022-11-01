@@ -6,6 +6,8 @@
 
 | Attribute Name|Data Source Type|Data Source|Description|
 | --- | --- | --- | --- |
+|Campaign Tracking (s.campaign)|Query String|cid|Description not provided|
+|Host Name (s.server)|Custom Code|hostname;|Description not provided|
 |Site Name|Custom Code|//placeholder code until real concatenation code is entered
 return true;|Common language used within the business to refer to the website. May be specific County Sites.|
 |Site Name|Custom Code|//placeholder code until real concatenation code is entered
