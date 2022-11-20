@@ -1,4 +1,4 @@
-# CTA Link Clicked
+# CTA Clicked
 
 ### 
 
@@ -6,7 +6,7 @@
 ```js
 window.appEventData = window.appEventData || [];
 appEventData.push({
-  "event": "CTA Link Clicked",
+  "event": "CTA Clicked",
     "linkInfo": {
         "customLinkName": "<customLinkName>",
         "linkId": "<linkId>"

@@ -1,4 +1,4 @@
-# CTA Link Clicked
+# CTA Clicked
 
 ### 
 
@@ -6,7 +6,7 @@
 
 | Attribute Name|Data Source Type|Data Source|Description|
 | --- | --- | --- | --- |
-|CTA Link Click Event|Static|1|Description not provided|
+|CTA Click Event|Static|1|Description not provided|
 
 
 

@@ -1,4 +1,4 @@
-# Hoover Click
+# Hover Click
 
 ### 
 
@@ -6,7 +6,7 @@
 ```js
 window.appEventData = window.appEventData || [];
 appEventData.push({
-  "event": "Hoover Click",
+  "event": "Hover Click",
     "linkInfo": {
         "customLinkName": "<customLinkName>"
     }

@@ -1,4 +1,4 @@
-# Hoover Click
+# Hover Click
 
 ### 
 
@@ -6,7 +6,7 @@
 
 | Attribute Name|Data Source Type|Data Source|Description|
 | --- | --- | --- | --- |
-|Hoover Click|Static|1|Description not provided|
+|Hover Click|Static|1|Description not provided|
 
 
 
