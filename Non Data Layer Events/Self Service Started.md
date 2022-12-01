@@ -1,4 +1,4 @@
-# Self Service Starts
+# Self Service Started
 
 ### 
 
@@ -6,6 +6,7 @@
 
 | Attribute Name|Data Source Type|Data Source|Description|
 | --- | --- | --- | --- |
+|Process Steps|Static|1|Indicates the user encountered a process step|
 |Self Service Starts|Static|1|Description not provided|
 
 

@@ -1,4 +1,4 @@
-# Self Service Completes
+# Self Service Completed
 
 ### 
 
@@ -6,9 +6,8 @@
 ```js
 window.appEventData = window.appEventData || [];
 appEventData.push({
-  "event": "Self Service Completes",
+  "event": "Self Service Completed",
     "tool": {
-        "processStep": <processStep>,
         "processStepLabel": "<processStepLabel>",
         "processStepValue": "<processStepValue>",
         "selfServiceActivityName": "<selfServiceActivityName>",
@@ -22,7 +21,6 @@ appEventData.push({
 
 |Path|Type|Description|Example|Pattern|Min Length|Max Length|Minimum|Maximum|Multiple Of|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|tool.processStep|boolean|Indicates the user encountered a prcess step||||||||
 |tool.processStepLabel|string|Captures the tool process step name||||||||
 |tool.processStepValue|string|Captures the tool process step number||||||||
 |tool.selfServiceActivityName|string|Captures the name of the self-service activity that the user started or completed||||||||

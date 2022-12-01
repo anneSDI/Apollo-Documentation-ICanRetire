@@ -1,4 +1,4 @@
-# Tool Step Encountered
+# Tool Middle Step
 
 ### 
 
@@ -6,12 +6,8 @@
 ```js
 window.appEventData = window.appEventData || [];
 appEventData.push({
-  "event": "Tool Step Encountered",
-    "page": {
-        "advisorID": "<advisorID>"
-    },
+  "event": "Tool Middle Step",
     "tool": {
-        "pollAnswer": "<pollAnswer>",
         "processStepLabel": "<processStepLabel>",
         "processStepValue": "<processStepValue>",
         "selfServiceActivityName": "<selfServiceActivityName>",
@@ -25,8 +21,6 @@ appEventData.push({
 
 |Path|Type|Description|Example|Pattern|Min Length|Max Length|Minimum|Maximum|Multiple Of|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|page.advisorID|string|Captures the Advisor ID asssociated with user activity||||||||
-|tool.pollAnswer|string|Captures the user's sentiment poll answer||||||||
 |tool.processStepLabel|string|Captures the tool process step name||||||||
 |tool.processStepValue|string|Captures the tool process step number||||||||
 |tool.selfServiceActivityName|string|Captures the name of the self-service activity that the user started or completed||||||||
