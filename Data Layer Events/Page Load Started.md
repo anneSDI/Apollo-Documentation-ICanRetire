@@ -25,6 +25,7 @@ appEventData.push({
     },
     "user": {
         "investorID": "<investorID>",
+        "personaSegment": "<personaSegment>",
         "planParticipantID": "<planParticipantID>",
         "salesforceID": "<salesforceID>",
         "tracSponsorID": "<tracSponsorID>",
@@ -46,10 +47,11 @@ appEventData.push({
 |page.siteAudience|string|Audience portion of the site name \(audience\/country\/language\)||||||||
 |page.siteCountry|string|Indicates the primary country served by the site. ISO 3166 \(alpha-2\) Uppercase.|US, CA, FR, UK|^[A-Z]{2}$||||||
 |page.siteLanguage|string|Language in which the site is presented ISO 639-1 code. |en-us, en-gb, ch-cn, fr-ca, fr-fr, da|^[a-z]{2}([-]{1}[a-z]{2}){0,1}$||||||
-|page.siteSection|string|General category or Site Section of the page. Top level of page hierarchy.||||||||
+|page.siteSection|string|The site section portion of the page details||||||||
 |page.siteSubsection|string|Subsection of the page being viewed||||||||
 |page.subSubSection|string|Sub-subsection level for the given page||||||||
 |user.investorID|string|Captures the unique ID that the investor used to access the site||||||||
+|user.personaSegment|string|User persona from the quiz if applicable, else an empty string||||||||
 |user.planParticipantID|string|The plan participant ID of the user accessing the site||||||||
 |user.salesforceID|string|Recipient ID used to identify a user via email||||||||
 |user.tracSponsorID|string|Captures the sponsor ID associated with the user accessing the site||||||||
