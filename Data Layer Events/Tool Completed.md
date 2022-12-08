@@ -10,6 +10,7 @@ appEventData.push({
     "tool": {
         "processStepLabel": "<processStepLabel>",
         "processStepValue": "<processStepValue>",
+        "settingUsed": "<settingUsed>",
         "toolId": "<toolId>"
     }
 });
@@ -21,6 +22,7 @@ appEventData.push({
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |tool.processStepLabel|string|Captures the tool process step name||||||||
 |tool.processStepValue|string|Captures the tool process step number||||||||
+|tool.settingUsed|string|The setting used when running an application\/tool||||||||
 |tool.toolId|string|Unique identifier of a site tool|Mortgage Calculator|||||||
 
 
