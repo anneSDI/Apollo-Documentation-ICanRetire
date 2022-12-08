@@ -8,7 +8,7 @@ window.appEventData = window.appEventData || [];
 appEventData.push({
   "event": "30 Seconds On Page",
     "page": {
-        "advisorID": "<advisorID>"
+        "advisorId": "<advisorId>"
     }
 });
 ```
@@ -17,7 +17,7 @@ appEventData.push({
 
 |Path|Type|Description|Example|Pattern|Min Length|Max Length|Minimum|Maximum|Multiple Of|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|page.advisorID|string|Captures the Advisor ID asssociated with user activity||||||||
+|page.advisorId|string|Captures the Advisor ID asssociated with user activity||||||||
 
 
 
