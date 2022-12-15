@@ -1,4 +1,4 @@
-# Video Completed
+# Video Abandoned
 
 ### 
 
@@ -6,7 +6,7 @@
 ```js
 window.appEventData = window.appEventData || [];
 appEventData.push({
-  "event": "Video Completed",
+  "event": "Video Abandoned",
     "video": {
         "videoName": "<videoName>",
         "videoPlaytime": <videoPlaytime>
