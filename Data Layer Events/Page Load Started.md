@@ -46,7 +46,7 @@ appEventData.push({
 |page.channel|string|Custom value for s.channel||||||||
 |page.pageLevel5|string|Level below sub-subsection of the given page||||||||
 |page.pageName|string|Describes the page and its content specifically. |product - XYZ123, Mens - Tops - Sweaters, Order Confirmation|||||||
-|page.siteAudience|string|Audience portion of the site name \(audience\/country\/language\)||||||||
+|page.siteAudience|string|Populates the built-in s.server variable with site audience \(custom usage\)||||||||
 |page.siteCountry|string|Indicates the primary country served by the site. ISO 3166 \(alpha-2\) Uppercase.|US, CA, FR, UK|^[A-Z]{2}$||||||
 |page.siteLanguage|string|Language in which the site is presented ISO 639-1 code. |en-us, en-gb, ch-cn, fr-ca, fr-fr, da|^[a-z]{2}([-]{1}[a-z]{2}){0,1}$||||||
 |page.siteSection|string|The site section portion of the page details||||||||
