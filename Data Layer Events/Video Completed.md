@@ -8,7 +8,8 @@ window.appEventData = window.appEventData || [];
 appEventData.push({
   "event": "Video Completed",
     "video": {
-        "videoName": "<videoName>"
+        "videoName": "<videoName>",
+        "videoPlaytime": <videoPlaytime>
     }
 });
 ```
@@ -18,6 +19,7 @@ appEventData.push({
 |Path|Type|Description|Example|Pattern|Min Length|Max Length|Minimum|Maximum|Multiple Of|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |video.videoName|string|Video Name|Twitch\_FPS, Age of Empires, Halo|||||||
+|video.videoPlaytime|number|Amount of time the video has played||||||||
 
 
 
