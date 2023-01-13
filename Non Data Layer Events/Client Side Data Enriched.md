@@ -37,6 +37,7 @@
 |Third-Party Video Views to 25%|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Third-Party Video Views to 50%|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Third-Party Video Views to 75%|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
+|Time Spent on First Page|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Time Spent on Native Article|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Youtube Video Views|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
 |Youtube Video Watch Time|Data Enrichment|Integration Data|Placeholder for data imported from an external source.|
